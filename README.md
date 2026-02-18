@@ -201,13 +201,3 @@ python main.py
 *TODO*
 
 ---
-
-# Contributing
-
-*TODO*
-
----
-
-# License
-
-*TODO*
