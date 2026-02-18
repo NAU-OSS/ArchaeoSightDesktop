@@ -1,4 +1,3 @@
-````markdown
 # ArchaeoSightDesktop
 
 ArchaeoSight is a cross-platform mobile application built to assist archaeologists in the field by integrating data from pXRF spectrometers, GPS, and image analysis. It leverages machine learning to predict potential anthropogenic hotspots and enables offline-first functionality to ensure usability in remote locations. Developed in Flutter, ArchaeoSight aims to modernize how field data is collected, analyzed, and visualized.
@@ -32,7 +31,6 @@ ArchaeoSightDesktop requires **Python 3.10+** (recommended: 3.10 or 3.11 for max
 6. Verify installation:
    ```bash
    python --version
-````
 
 ---
 
@@ -156,45 +154,6 @@ pip install -r requirements.txt
 
 ```bash
 python main.py
-```
-
-Or if structured as a package:
-
-```bash
-python -m archaeosight
-```
-
----
-
-# Development Setup (Optional)
-
-For editable installs:
-
-```bash
-pip install -e .
-```
-
-This allows you to modify the source code without reinstalling the package.
-
----
-
-# Project Structure (Planned)
-
-```
-ArchaeoSightDesktop/
-│
-├── archaeosight/
-│   ├── models/
-│   ├── kriging/
-│   ├── preprocessing/
-│   ├── visualization/
-│   ├── hub/
-│   └── ui/
-│
-├── datasets/
-├── requirements.txt
-├── main.py
-└── README.md
 ```
 
 ---
