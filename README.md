@@ -211,5 +211,3 @@ python main.py
 # License
 
 *TODO*
-
-```
