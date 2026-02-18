@@ -196,7 +196,7 @@ python main.py
 
 ---
 
-# Model Format Specifications
+## Model Format Specifications
 
 *TODO*
 
