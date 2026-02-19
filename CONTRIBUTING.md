@@ -47,9 +47,9 @@ Each PR should include:
 Small, focused pull requests are preferred.
 ---
 # Code Style
-## All Python code must follow PEP 8:
-## https://peps.python.org/pep-0008/
-## Please ensure your code adheres to this standard before submitting.
+All Python code must follow PEP 8:
+https://peps.python.org/pep-0008/
+Please ensure your code adheres to this standard before submitting.
 ---
 # Testing Requirements
 We use `pytest`.
